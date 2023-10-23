@@ -1,0 +1,38 @@
+/* EditableText.css */
+.editable-text {
+  background-color: #fff;
+  display: inline-block;
+  padding: 20px;
+  text-align: center;
+  margin-top: 400px;
+  margin-left: 900px;
+  width: 20%;
+
+}
+
+.editable-text textarea {
+  width: 100%;
+  padding: 8px;
+  font-size: 20px; /* Increased font size */
+  box-sizing: border-box;
+  height: 200px;
+
+}
+
+.editable-text button {
+  display: block; /* Make the Save button always visible */
+  margin-top: 10px; /* Add some spacing below the textarea */
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+}
+
+.editable-content {
+  padding: 8px;
+  font-size: 16px;
+  border: 1px solid #ccc;
+  cursor: pointer;
+  margin-bottom: 10px;
+}

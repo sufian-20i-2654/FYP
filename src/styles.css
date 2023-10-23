@@ -1,0 +1,48 @@
+/* styles.css */
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #5f5b5b;
+  }
+  
+  .container {
+    max-width: 600px;
+    margin: 50px auto;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin-top: 100px;
+
+  }
+  
+  .dropdown-container {
+    margin-top: 20px; /* Adjusted margin-top */
+  }
+  
+  label {
+    display: block;
+    margin-bottom: 8px;
+  }
+  
+  select {
+    width: 100%;
+    padding: 8px;
+    font-size: 16px;
+  }
+  
+  .checkbox-container {
+    margin-bottom: 40px; /* Adjusted margin-bottom */
+  }
+  
+  .checkbox-container label {
+    display: block;
+    margin-bottom: 10px;
+  }
+.app-title{
+        text-align: center;
+        margin-top: 10px;
+        opacity: 0.5;
+    }
+
